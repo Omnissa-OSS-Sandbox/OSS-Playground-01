@@ -1,2 +1,2 @@
-# OSS-Playground-01
-This is it
+# .github
+Omnissa Organizational .github Directory
